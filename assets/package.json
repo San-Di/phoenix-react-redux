@@ -18,6 +18,9 @@
     "webpack": "^4.12.0",
     "webpack-dev-server": "^3.1.4"
   },
+  "scripts": {
+    "webpack": "webpack-dev-server --watch --color"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",

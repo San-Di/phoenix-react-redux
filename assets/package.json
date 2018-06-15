@@ -1,0 +1,10 @@
+{
+  "name": "assets",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "repository": "repository url",
+  "author": "author",
+  "license": "MIT",
+  "private": null
+}
